@@ -16,8 +16,7 @@ from langchain.load import dumps, loads
 import streamlit as st
 
 os.environ['PINECONE_API_KEY'] = "pcsk_76WQU2_77N63EQhEq88Br5Skj4d1fQU9TzLeEsBzV9FmWUKET2mcvr9N97Bdkt9uddgcsT"
-os.environ[
-    'OPENAI_API_KEY'] = "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"
+os.environ['OPENAI_API_KEY'] = "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"
 
 index_name = "interpretation-docs"
 embeddings = OpenAIEmbeddings()
