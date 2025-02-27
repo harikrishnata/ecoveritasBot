@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain_pinecone
+langchain_openai
+langchain_community
+langchain_text_splitters
+semantic_router
+pinecone-client
+pymupdf
